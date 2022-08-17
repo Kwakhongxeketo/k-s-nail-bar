@@ -1,0 +1,15 @@
+h1 {
+    color: black;
+ }
+ h1{font-size: xx-large;color:black;}
+ h2{font-weight:bold;color: black;}
+ p{font-size: larger;color: black;}
+ p{font: large;color: black;}
+ p{font: large;color: black;}
+
+ body{
+     background-image: url(nailbar5.jpg);
+ background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+ }
